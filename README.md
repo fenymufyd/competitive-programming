@@ -1,2 +1,2 @@
 # competitive-programming
-Repo berisi solusi saya untuk soal competitive programming yang ada di CodeForces, leetcode dan lainnya 
+Repo yang isinya solusi saya untuk soal competitive programming yang saya selesaikan di CodeForces, leetcode dan lainnya 
